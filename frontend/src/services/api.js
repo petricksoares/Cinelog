@@ -7,7 +7,7 @@ const supabase = createClient(
 )
 
 const api = axios.create({
-  baseURL: 'http://localhost:3000/api'
+  baseURL: 'https://cinelog-backend-812z.onrender.com/api'
 })
 
 api.interceptors.request.use(async (config) => {
