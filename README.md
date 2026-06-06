@@ -214,7 +214,6 @@ CREATE POLICY "Categorias visíveis para todos" ON categorias
 <img width="540" height="653" alt="Captura de tela 2026-06-06 142627" src="https://github.com/user-attachments/assets/0a6ff901-484c-4041-8292-4c0f66eb9c51" />
 <img width="557" height="762" alt="Captura de tela 2026-06-06 142647" src="https://github.com/user-attachments/assets/5d5cb252-b7da-4ac5-8339-05cad2b87c94" />
 
- 
 ### Início
 <img width="1857" height="906" alt="Captura de tela 2026-06-06 143801" src="https://github.com/user-attachments/assets/18094908-7c61-4bf5-b870-39791f59b24b" />
 
