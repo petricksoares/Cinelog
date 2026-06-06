@@ -207,7 +207,29 @@ CREATE POLICY "Filmes visíveis para usuários autenticados" ON filmes
 CREATE POLICY "Categorias visíveis para todos" ON categorias
   FOR ALL USING (true);
 ```
+
+ ## Telas do Sistema
  
+### Telas de Login
+<img width="540" height="653" alt="Captura de tela 2026-06-06 142627" src="https://github.com/user-attachments/assets/0a6ff901-484c-4041-8292-4c0f66eb9c51" />
+<img width="557" height="762" alt="Captura de tela 2026-06-06 142647" src="https://github.com/user-attachments/assets/5d5cb252-b7da-4ac5-8339-05cad2b87c94" />
+
+ 
+### Início
+<img width="1857" height="906" alt="Captura de tela 2026-06-06 143801" src="https://github.com/user-attachments/assets/18094908-7c61-4bf5-b870-39791f59b24b" />
+
+### Coleção de Filmes
+<img width="1876" height="892" alt="Captura de tela 2026-06-06 143829" src="https://github.com/user-attachments/assets/62af0233-679a-4cb0-8b54-1feb296c5004" />
+ 
+### Adicionar / Editar Filme
+<img width="743" height="877" alt="Captura de tela 2026-06-06 143033" src="https://github.com/user-attachments/assets/d5171968-ae5e-412a-a975-6f3c10598f53" />
+
+ 
+### Perfil do Usuário
+<img width="1887" height="881" alt="Captura de tela 2026-06-06 143845" src="https://github.com/user-attachments/assets/441e2848-fd85-481d-afd1-84eb94061a03" />
+
+ 
+---
 ---
  
 ## 🗄️ Banco de Dados
