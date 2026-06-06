@@ -4,7 +4,7 @@
  
 ---
  
-## 📋 Índice
+## Índice
  
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -16,7 +16,7 @@
 - [Integrantes](#integrantes)
 ---
  
-## 📌 Sobre o Projeto
+## Sobre o Projeto 📌
  
 O **CineLog** é um sistema web completo desenvolvido como projeto avaliativo da disciplina de **Programação Web**. A aplicação permite que usuários cadastrem, organizem e avaliem filmes de sua coleção pessoal, escrevendo críticas e atribuindo notas para cada título.
  
@@ -24,7 +24,7 @@ O sistema foi desenvolvido utilizando arquitetura **cliente-servidor**, com fron
  
 ---
  
-## ✅ Funcionalidades
+## Funcionalidades
  
 ### Autenticação
 - Cadastro de novo usuário com nome e e-mail
@@ -33,12 +33,12 @@ O sistema foi desenvolvido utilizando arquitetura **cliente-servidor**, com fron
 - Proteção de rotas (apenas usuários autenticados acessam o sistema)
 - Logout
 ### Filmes (CRUD Completo)
-- ➕ Cadastrar novo filme
-- 📋 Listar todos os filmes
-- ✏️ Editar filme existente
-- 🗑️ Excluir filme
-- 🔍 Buscar filme por título
-- 🎭 Filtrar por categoria
+- Cadastrar novo filme
+- Listar todos os filmes
+- Editar filme existente
+- Excluir filme
+- Buscar filme por título
+- Filtrar por categoria
 ### Dashboard
 - Total de filmes cadastrados
 - Média geral das notas
@@ -259,9 +259,9 @@ O sistema utiliza **3 tabelas** no Supabase:
  
 ## 👤 Integrantes
  
-| Nome | RA |
+| Integrante 1 | Integrante 2 |
 |---|---|
-| Petrick Gomes | xxxxxxx |
+| Petrick Gomes | Sammya Letícia |
  
 ---
  
