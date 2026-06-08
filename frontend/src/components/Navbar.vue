@@ -74,4 +74,27 @@ const handleLogout = async () => {
 .btn-logout:hover {
   background: #c73652;
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .navbar-brand {
+    font-size: 1.7rem;
+  }
+
+  .navbar-menu {
+    width: 100%;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-logout {
+    padding: 0.5rem 1rem;
+  }
+}
 </style>
