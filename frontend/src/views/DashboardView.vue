@@ -136,6 +136,7 @@ h2 {
 .stat-label {
   color: #aaa;
   font-size: 0.85rem;
+  text-align: center;
 }
 
 .recentes h3 {
@@ -158,5 +159,24 @@ h2 {
 
 .btn-ver-todos:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .dashboard {
+    padding: 1rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  .cards-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .filmes-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 </style>

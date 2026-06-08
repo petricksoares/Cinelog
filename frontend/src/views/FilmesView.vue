@@ -161,4 +161,28 @@ h2 {
   padding: 3rem;
   font-size: 1.1rem;
 }
+
+@media (max-width: 768px) {
+  .filmes-page {
+    padding: 1rem;
+  }
+
+  .filtros {
+    flex-direction: column;
+  }
+
+  .select-categoria {
+    width: 100%;
+  }
+
+  .filmes-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .page-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+}
 </style>
